@@ -8,4 +8,4 @@
 
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=ikhodabande&theme=vue-dark)](https://git.io/streak-stats)
-
+[![Amir's github stats](https://github-readme-stats.vercel.app/api?username=ikhodabande)](https://github.com/anuraghazra/github-readme-stats)
