@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p>
 
 <h1 align="center">Hi 👋, I'm AmirMohammad</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A6BF7&width=500&lines=A+passionate+frontend+developer+from+Iran" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhodabande&label=Profile%20views&color=0e75b6&style=flat" alt="ikhodabande" /> </p>
 
