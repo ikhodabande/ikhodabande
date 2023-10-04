@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amikhodabande/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ikhodabande)
 
-- 🔭 I’m currently working on **JavaScript Basics To Improve**
+- 🔭 I’m currently working on **JavaScript to complete this skill at an advanced level**
 
 - 🌱 I’m currently learning **Frameworks, Courses &...**
 
