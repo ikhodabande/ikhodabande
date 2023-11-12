@@ -1,6 +1,6 @@
 <h1 align="center" >Hi!👋, I'm Amirmohammad</h1>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=8000&color=D2DE32&width=500&lines=A+passionate+Front-end+developer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=8000&color=00A9FF&width=500&lines=A+passionate+Front-end+developer" alt="Typing SVG" /></a>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amikhodabande/)
