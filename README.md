@@ -1,10 +1,7 @@
-<h1 align="center">Hi , I'm Amirmohammad</h1>
+<h1 align="center">Hi!👋, I'm Amirmohammad</h1>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=279EFF&width=500&lines=A+passionate+frontend+developer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=8000&color=FF5B22&width=500&lines=A+passionate+frontend+developer" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=279EFF&width=500&lines=Great+teammate." alt="Typing SVG" /></a>
-
-<a align="righte" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=279EFF&width=500&lines=Creative+problem+solver." alt="Typing SVG" /></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amikhodabande/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ikhodabande)
