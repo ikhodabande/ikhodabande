@@ -1,4 +1,3 @@
-# Front-End Preview
 
 ```html
 <!DOCTYPE html>
