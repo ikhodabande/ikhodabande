@@ -50,12 +50,5 @@
 
 ---
 
-### 📫 Connect with Me
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-
----
 
 _Thanks for visiting! ⭐️ If you like my work, consider following me or starring one of my repos!_
