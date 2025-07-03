@@ -28,25 +28,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikhodabande&show_icons=true&locale=en&theme=radical" alt="ikhodabande" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhodabande&show_icons=true&locale=en&layout=compact&theme=radical" alt="ikhodabande" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhodabande&theme=radical" alt="ikhodabande" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikhodabande&theme=radical" alt="ikhodabande summary" />
-</p>
-
----
 
 ### 📅 GitHub Timeline
 
