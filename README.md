@@ -1,54 +1,43 @@
-
 <h1 align="center">Hi, I'm Amir Mohammad Khodabande 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/ikhodabande"> <img src="https://komarev.com/ghpvc/?username=ikhodabande&label=Profile%20views&color=0e75b6&style=flat" alt="ikhodabande" /> </a>
-  <a href="https://github.com/ikhodabande?tab=followers"> <img src="https://img.shields.io/github/followers/ikhodabande?label=Followers&style=social" alt="GitHub Followers" /> </a>
-</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Master's student in **Power Electronics** @ Tafresh University  
-- 💼 Front-End Developer @ Webcom Company  
-- 💍 Married & Living in **Qazvin, Iran**  
-- 📷 Passionate about **Photography**  
-- 🚀 Learning **Python**, **Machine Learning**, and **IoT Systems**  
-- 🌐 Building web apps using **React**, **Next.js**, and **Tailwind CSS**  
-- 🧠 Interested in **AI-Powered Systems**, **IoT** and **Automation**
+- Master's student in **Power Electronics** @ Tafresh University  
+- Front-End Developer @ Webcom Company  
+- Married & based in **Qazvin, Iran**  
+- Passionate about **Photography**  
+- Currently learning **Python**, **Machine Learning**, and **IoT**  
+- Building web apps with **React**, **Next.js**, and **Tailwind CSS**  
+- Interested in **AI**, **Automation**, and **IoT systems**
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css,nodejs,express,mongodb,git,github,vscode,figma,python,linux,bash" />
-</p>
+**JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Python, Git**
 
 ---
 
+### 📈 GitHub Timeline
 
-
-### 📅 GitHub Timeline
-
-- 🗓️ Joined GitHub in: **2021**  
-- ⌛ Active for: **3+ years**  
-- 📦 Repositories: **Public & Private Projects**  
-- ⭐ Contributions: **Open Source Contributions & Side Projects**
+- Joined in **2021**  
+- 3+ years of contributions  
+- Working on public and private projects  
+- Active in open-source and side projects
 
 ---
 
-### 🔧 Projects and Focus Areas
+### 🔧 Current Focus
 
-- 💡 Building full-stack applications using **Next.js, Express.js, MongoDB**
-- 📦 Creating reusable **UI components** with **shadcn/ui** and **Tailwind CSS**
-- 💬 Developing internal dashboards, client portals, and CMS solutions
-- 🔐 Implementing **authentication** using tokens and API security layers
-- 📊 Developing real-time dashboards for barbershop reservation systems
-- 📱 Working on **React Native** apps for mobile platforms
+- Full-stack apps with **Next.js + Express + MongoDB**  
+- Reusable **UI components** using **shadcn/ui & Tailwind CSS**  
+- Internal dashboards, portals & CMS tools  
+- **Authentication**, API integration & security  
+- Real-time dashboards (e.g., barbershop reservation)  
+- **React Native** apps for mobile
 
 ---
 
-
-_Thanks for visiting! ⭐️ If you like my work, consider following me or starring one of my repos!_
+_Thanks for visiting! If you enjoy my work, feel free to follow or star a repository! ⭐_
